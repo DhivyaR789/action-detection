@@ -1,2 +1,2 @@
 # Action Detection
-Sign detection project
+Action detection project
